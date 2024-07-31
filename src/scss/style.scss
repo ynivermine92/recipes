@@ -1,0 +1,19 @@
+
+@import './vars';
+@import './reset';
+@import './global';
+@import './fonts';
+
+// ========================== [ import component ] ==========================
+
+@import "../componets/Header/Header";
+@import "../componets/Category/Category"; 
+@import "../componets/Product/Product";
+@import "../componets/Description/Description";
+@import "../componets/BackButton/BackButton";
+
+
+
+
+
+

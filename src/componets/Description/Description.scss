@@ -1,0 +1,24 @@
+.description{
+
+    &__image{
+        padding-top:50px;
+        padding-bottom: 50px;
+        width: 100%;
+        max-width: 500px;
+        margin: 0 auto;
+    }
+    &__title{
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    &__text{
+        font-size: 16px;
+        line-height: 1.3em;
+    }
+    &__items{
+        margin-top: 20px;
+    }
+    &__item{
+        margin-top: 10px;
+    }
+}
